@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Substitua o caminho do src pelo link ou diretório real da logo/ícone do SineVida no seu projeto -->
-<img src="assets/logo_sinevida.png" alt="SineVida Logo" width="130" />
+<img src="https://github.com/sinevida.png" alt="SineVida Logo" width="130" />
 
 # SineVida
 ### *Doe Sangue, Salve Vidas e Conecte-se com a Solidariedade*
